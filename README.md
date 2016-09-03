@@ -1,0 +1,1 @@
+# alfredapp-image-resize
